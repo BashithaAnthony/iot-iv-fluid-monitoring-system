@@ -26,9 +26,10 @@ A smart healthcare monitoring system designed to track IV fluid levels in real t
 ## My Contributions
 
 * Designed embedded system for fluid level measurement
-* Developed IoT communication system
+* Assisted in IoT communication system
 * Designed the pcb using Altium
-* Assisted in hardware design and testing
+* Developed the enclosure design
+* Assisted in hardware design, assembling and testing
 
 
 ## Project Status
